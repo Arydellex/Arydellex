@@ -4,7 +4,7 @@ Daily, I strive to continue my education through online courses, tutorials, and 
 I've been honored to freelanced & work full-time in IT for 6+ years, honing skills in support and cloud. 
 <br><br>
 <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="[https://logos-world.net/wp-content/uploads/2021/05/Microsoft-Azure-Logo.png]" />
 </a>
 <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
