@@ -1,12 +1,13 @@
 # Arydelle Davis - Azure & AWS Cloud Engineer
 
 
-Hi, I’m Byron Davis (or Arydelle Davis)
+### Hi, I’m Byron Davis (or Arydelle Davis)
 I am a Cloud Administrator & Engineer, proficient in Azure, AWS, & GCP.
 Daily, I strive to continue my education through online courses, tutorials, and private projects.
 I've been honored to freelanced & work full-time in IT for 6+ years, honing skills in support and cloud. 
-## <a href="" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="60" height="37" /> Azure Work Examples
-
+## <a href="" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="60" height="37" /> Azure Work Examples ##
+<p> <i>Azure Work Examples showcases practical implementations of Azure services, covering cloud deployments, automation, security, and development best practices. It helps professionals efficiently build and secure Azure solutions.<i> </p?
+    
 -----
 ### <a href="" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br>Azure Administration (AZ-104)<br>
 -----
