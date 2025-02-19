@@ -8,7 +8,7 @@ I've been honored to freelanced & work full-time in IT for 6+ years, honing skil
 ## <a href="" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="60" height="37" /> Azure Work Examples
 
 -----
-### <a href="" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="38" height="32" /> <br>Azure Administration (AZ-104)<br>
+### <a href="" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br>Azure Administration (AZ-104)<br>
 -----
 ### <a href="" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br>Azure Development (AZ-204)<br>
 -----
