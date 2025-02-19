@@ -7,7 +7,7 @@ I've been honored to freelanced & work full-time in IT for 6+ years, honing skil
     <img src="https://logos-world.net/wp-content/uploads/2021/05/Azure-New-Logo.png" width="150" height="83" />
 </a>
 <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://fastpng.com/images/file/aws-logo-ae92fbdp5ucmps3y.png" width="150" height="83" />
 </a>
 <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/View-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
