@@ -2,6 +2,7 @@ Hi, I’m Byron Davis (or Arydelle Davis)
 I am a Cloud Administrator & Engineer, proficient in Azure, AWS, & GCP.
 Daily, I strive to continue my education through online courses, tutorials, and private projects.
 I've been honored to freelanced & work full-time in IT for 6+ years, honing skills in support and cloud. 
+<br><br>
 <br>Select a cloud project repository below:<br>
 
 <a href="https://www.youtube.com/" target="_blank">
