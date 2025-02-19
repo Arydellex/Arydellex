@@ -10,7 +10,7 @@ I've been honored to freelanced & work full-time in IT for 6+ years, honing skil
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstormforger.com%2Fimages%2Faws-logo-a8f9f20f.png&f=1&nofb=1&ipt=fabe200cc0c2c64d542b818cbf1927bd4002cb83e7c86dadf98f28084b81792e&ipo=images" width="120" height="63" />
 </a>
 <a href="https://instagram.com/" target="_blank">
-    <img src="https://www.pngmart.com/files/23/Google-Cloud-Logo-PNG-Photo-1.png" width="170" height="120" />
+    <img src="https://www.pngmart.com/files/23/Google-Cloud-Logo-PNG-Photo-1.png" width="150" height="120" />
 </a>
 <a href="https://linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
