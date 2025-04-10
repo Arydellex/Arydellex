@@ -22,7 +22,7 @@ I've been honored to freelanced & work full-time in IT for 6+ years, honing skil
 <p> <i>Azure Work Examples showcases practical implementations of Azure services, covering cloud deployments, automation, security, and development best practices. It helps professionals efficiently build and secure Azure solutions.</i> </p>
     
 -----
-### <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br> AWS SysAdmin <br>
+### <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br> AWS SysOps <br>
 -----
 ### <a href="https://github.com/Arydellex/Azure-Development" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br> AWS Development & Devops <br>
 -----
