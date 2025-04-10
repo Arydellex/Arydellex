@@ -5,11 +5,11 @@
 I am a Cloud Systems Administrator & Automations Engineer, proficient in Azure, AWS, & GCP.
 Daily, I strive to continue my education through online courses, tutorials, and private projects.
 I've been honored to freelanced & work full-time in IT for 6+ years, honing skills in support and cloud. 
-## <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="60" height="37" /> Azure Work Examples ##
+## <a href="" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="60" height="37" /> Azure Work Examples ##
 <p> <i>Azure Work Examples showcases practical implementations of Azure services, covering cloud deployments, automation, security, and development best practices. It helps professionals efficiently build and secure Azure solutions.</i> </p>
     
 -----
-### <a href="" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br>Azure Administration (AZ-104)<br>
+### <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br>Azure Administration (AZ-104)<br>
 -----
 ### <a href="" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br>Azure Development (AZ-204)<br>
 -----
