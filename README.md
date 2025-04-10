@@ -11,7 +11,7 @@ I've been honored to freelanced & work full-time in IT for 6+ years, honing skil
 -----
 ### <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br>Azure Administration <br>
 -----
-### <a href="https://github.com/Arydellex/Azure-Development" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br>Azure Development <br>
+### <a href="https://github.com/Arydellex/Azure-Development" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br>Azure Development & Devops <br>
 -----
 ### <a href="https://github.com/Arydellex/Azure-Security-Engineering" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/016/314/890/original/transparent-cloud-security-icon-free-png.png" width="60" height="60" /> <br>Azure Security Engineering <br>
 -----
@@ -22,11 +22,11 @@ I've been honored to freelanced & work full-time in IT for 6+ years, honing skil
 <p> <i>Azure Work Examples showcases practical implementations of Azure services, covering cloud deployments, automation, security, and development best practices. It helps professionals efficiently build and secure Azure solutions.</i> </p>
     
 -----
-### <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br>Azure Administration <br>
+### <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br> AWS SysAdmin <br>
 -----
-### <a href="https://github.com/Arydellex/Azure-Development" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br>Azure Development <br>
+### <a href="https://github.com/Arydellex/Azure-Development" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br> AWS Development & Devops <br>
 -----
-### <a href="https://github.com/Arydellex/Azure-Security-Engineering" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/016/314/890/original/transparent-cloud-security-icon-free-png.png" width="60" height="60" /> <br>Azure Security Engineering <br>
+### <a href="https://github.com/Arydellex/Azure-Security-Engineering" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/016/314/890/original/transparent-cloud-security-icon-free-png.png" width="60" height="60" /> <br> AWS Solutions Architect <br>
 -----
 
 
@@ -36,9 +36,9 @@ I've been honored to freelanced & work full-time in IT for 6+ years, honing skil
 <p> <i>Azure Work Examples showcases practical implementations of Azure services, covering cloud deployments, automation, security, and development best practices. It helps professionals efficiently build and secure Azure solutions.</i> </p>
     
 -----
-### <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br>Azure Administration <br>
+### <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2016/06/Microsoft_logo_azure.png" width="42" height="32" /> <br>Azure AI Engineering <br>
 -----
-### <a href="https://github.com/Arydellex/Azure-Development" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br>Azure Development <br>
+### <a href="https://github.com/Arydellex/Azure-Development" target="_blank"><img src="https://static-00.iconduck.com/assets.00/visual-studio-code-icon-512x506-2fdb6ar6.png" width="42" height="42" /> <br>AWS Machine Learning <br>
 -----
-### <a href="https://github.com/Arydellex/Azure-Security-Engineering" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/016/314/890/original/transparent-cloud-security-icon-free-png.png" width="60" height="60" /> <br>Azure Security Engineering <br>
+### <a href="https://github.com/Arydellex/Azure-Security-Engineering" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/016/314/890/original/transparent-cloud-security-icon-free-png.png" width="60" height="60" /> <br> Cloud Automation <br>
 -----
