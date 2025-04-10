@@ -1,4 +1,4 @@
-# Arydelle Davis - Azure & AWS Cloud Engineer
+# Byron Davis - Azure & AWS Cloud Engineer
 
 
 ### Hi, I’m Byron Davis (or Arydelle Davis) <a href="https://www.linkedin.com/in/arydelle/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/023/986/926/large_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="28" height="28" />
