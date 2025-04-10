@@ -32,7 +32,7 @@ I've been honored to freelanced & work full-time in IT for 6+ years, honing skil
 
 <br><br>
     
-## <a href="" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.amezmo.net%2Fi%2Faws-logo.cfb5b881865d3101.png&f=1&nofb=1&ipt=802e9df31eed406e06c3b4223e01d01531ae24778634c34e82468dd1862615d6&ipo=images" width="60" height="37" /> </a>AI,ML,Automation Work Samples
+## <a href="" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.amezmo.net%2Fi%2Faws-logo.cfb5b881865d3101.png&f=1&nofb=1&ipt=802e9df31eed406e06c3b4223e01d01531ae24778634c34e82468dd1862615d6&ipo=images" width="60" height="37" /> </a>AI/ML,Automation Work Samples
 <p> <i>Azure Work Examples showcases practical implementations of Azure services, covering cloud deployments, automation, security, and development best practices. It helps professionals efficiently build and secure Azure solutions.</i> </p>
     
 -----
