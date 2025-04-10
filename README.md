@@ -2,7 +2,7 @@
 
 
 ### Hi, I’m Byron Davis <a href="https://www.linkedin.com/in/arydelle/" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/023/986/926/large_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png" width="28" height="28" />
-I am a Cloud Administrator & Engineer, proficient in Azure, AWS, & GCP.
+I am a Cloud Systems Administrator & Automations Engineer, proficient in Azure, AWS, & GCP.
 Daily, I strive to continue my education through online courses, tutorials, and private projects.
 I've been honored to freelanced & work full-time in IT for 6+ years, honing skills in support and cloud. 
 ## <a href="https://github.com/Arydellex/Azure-Administration" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2021/02/Microsoft-Azure-Emblem.png" width="60" height="37" /> Azure Work Examples ##
